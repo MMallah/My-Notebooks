@@ -1,4 +1,4 @@
-# Project : Investigating Patients not showing for check-ups 
+# [Project : Investigating Patients not showing for check-ups](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb) 
 
 ## Table of Contents
 <ul>
