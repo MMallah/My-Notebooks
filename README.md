@@ -1953,7 +1953,7 @@ appointments.hist(figsize = (15,15));
 ```
 
 
-![png](output_57_0.png)
+![png](output_57_0.PNG)
 
 
 #### We Observe the Age variable is Right skewed, Along with counts for the other Variables.
